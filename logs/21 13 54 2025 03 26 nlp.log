@@ -1,0 +1,59 @@
+2025-03-26 21:14:01,615 - INFO - Reading text from file: D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/test_text.txt
+2025-03-26 21:14:01,617 - INFO - Successfully read 0 chars from file.
+2025-03-26 21:14:01,617 - INFO - Text is initializing...
+2025-03-26 21:14:01,617 - CRITICAL - Error with detecting langauge.
+2025-03-26 21:14:01,618 - INFO - Text is initialized with parameters: delete_punctuation_mode=string, text_normalization_method=lemma
+2025-03-26 21:14:01,618 - INFO - Text has been converted to lower case.
+2025-03-26 21:14:01,618 - INFO - Correction of typos initiated...
+2025-03-26 21:14:01,712 - INFO - Correction of typos initiated...
+2025-03-26 21:14:01,714 - INFO - Converting numbers to words...
+2025-03-26 21:14:01,716 - INFO - Numbers have been converted to words.
+2025-03-26 21:14:01,717 - INFO - Text preprocessing is done!
+2025-03-26 21:14:34,763 - INFO - Reading text from file: D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/test_text.txt
+2025-03-26 21:14:34,769 - INFO - Successfully read 35 chars from file.
+2025-03-26 21:14:34,769 - INFO - Text is initializing...
+2025-03-26 21:14:34,772 - INFO - Detected language: russian
+2025-03-26 21:14:34,773 - INFO - Text is initialized with parameters: delete_punctuation_mode=string, text_normalization_method=lemma
+2025-03-26 21:14:34,773 - INFO - Text has been converted to lower case.
+2025-03-26 21:14:34,774 - INFO - Correction of typos initiated...
+2025-03-26 21:14:35,594 - ERROR - Typos correction error: sequence item 0: expected str instance, NoneType found
+2025-03-26 21:14:35,597 - INFO - Converting numbers to words...
+2025-03-26 21:14:35,598 - INFO - Numbers have been converted to words.
+2025-03-26 21:14:35,598 - INFO - Text preprocessing is done!
+2025-03-26 21:14:37,911 - INFO - Transmitted preprocessed text with 67 chars.
+2025-03-26 21:14:37,913 - INFO - Text successfully was written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/test_text.txt
+2025-03-26 21:14:41,821 - INFO - BagOfWords class is initialized
+2025-03-26 21:14:41,822 - INFO - Creating bag of words using sklearn...
+2025-03-26 21:14:41,830 - INFO - Bag of words created with 10 unique words using sklearn
+2025-03-26 21:14:41,831 - INFO - NGrams class is initialized
+2025-03-26 21:14:41,831 - INFO - Creating 2-grams...
+2025-03-26 21:14:41,832 - INFO - 2-grams created with 10 unique 2-grams
+2025-03-26 21:14:41,832 - INFO - NGrams class is initialized
+2025-03-26 21:14:41,833 - INFO - Creating 4-grams...
+2025-03-26 21:14:41,834 - INFO - 4-grams created with 8 unique 4-grams
+2025-03-26 21:16:20,549 - INFO - Reading text from file: D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/test_text.txt
+2025-03-26 21:16:20,555 - INFO - Successfully read 45 chars from file.
+2025-03-26 21:16:20,556 - INFO - Text is initializing...
+2025-03-26 21:16:20,558 - INFO - Detected language: russian
+2025-03-26 21:16:20,559 - INFO - Text is initialized with parameters: delete_punctuation_mode=string, text_normalization_method=lemma
+2025-03-26 21:16:20,559 - INFO - Text has been converted to lower case.
+2025-03-26 21:16:20,560 - INFO - Correction of typos initiated...
+2025-03-26 21:16:21,600 - ERROR - Typos correction error: sequence item 0: expected str instance, NoneType found
+2025-03-26 21:16:21,604 - INFO - Converting numbers to words...
+2025-03-26 21:16:21,605 - INFO - Numbers have been converted to words.
+2025-03-26 21:16:21,606 - INFO - Text preprocessing is done!
+2025-03-26 21:16:32,538 - INFO - Transmitted preprocessed text with 126 chars.
+2025-03-26 21:16:32,538 - INFO - Text successfully was written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/output_russian.txt
+2025-03-26 21:17:14,981 - INFO - Reading text from file: D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/test_text.txt
+2025-03-26 21:17:14,988 - INFO - Successfully read 36 chars from file.
+2025-03-26 21:17:14,988 - INFO - Text is initializing...
+2025-03-26 21:17:14,991 - INFO - Detected language: russian
+2025-03-26 21:17:14,992 - INFO - Text is initialized with parameters: delete_punctuation_mode=string, text_normalization_method=lemma
+2025-03-26 21:17:14,993 - INFO - Text has been converted to lower case.
+2025-03-26 21:17:14,993 - INFO - Correction of typos initiated...
+2025-03-26 21:17:15,874 - ERROR - Typos correction error: sequence item 0: expected str instance, NoneType found
+2025-03-26 21:17:15,877 - INFO - Converting numbers to words...
+2025-03-26 21:17:15,878 - INFO - Numbers have been converted to words.
+2025-03-26 21:17:15,878 - INFO - Text preprocessing is done!
+2025-03-26 21:17:48,450 - INFO - Transmitted preprocessed text with 117 chars.
+2025-03-26 21:17:48,451 - INFO - Text successfully was written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/output_russian.txt

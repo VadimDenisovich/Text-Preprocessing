@@ -1,0 +1,48 @@
+2025-03-26 21:52:37,696 - INFO - Reading text from file: D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/test_text.txt
+2025-03-26 21:52:37,698 - INFO - Successfully read 29 chars from file.
+2025-03-26 21:52:37,699 - INFO - Text is initializing...
+2025-03-26 21:52:37,702 - INFO - Detected language: russian
+2025-03-26 21:52:37,704 - INFO - Text is initialized with parameters: delete_punctuation_mode=string, text_normalization_method=lemma
+2025-03-26 21:52:37,704 - INFO - Text has been converted to lower case.
+2025-03-26 21:52:37,706 - INFO - Converting numbers to words...
+2025-03-26 21:52:37,706 - INFO - Numbers have been converted to words.
+2025-03-26 21:52:37,707 - INFO - Punctuation are being deleting...
+2025-03-26 21:52:37,709 - INFO - Punctuation has been deleted.
+2025-03-26 21:52:37,710 - INFO - Correction of typos initiated...
+2025-03-26 21:52:38,992 - INFO - Corrected 2 typos using Yandex.Speller
+2025-03-26 21:52:38,993 - INFO - Text preprocessing is done!
+2025-03-26 21:52:39,002 - INFO - Transmitted preprocessed text with 63 chars.
+2025-03-26 21:52:39,003 - INFO - Text successfully was written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/output_russian.txt
+2025-03-26 21:52:39,010 - INFO - BagOfWords class is initialized
+2025-03-26 21:52:39,011 - INFO - Creating bag of words using sklearn...
+2025-03-26 21:52:39,013 - INFO - Bag of words created with 9 unique words using sklearn
+2025-03-26 21:52:39,014 - INFO - NGrams class is initialized
+2025-03-26 21:52:39,014 - INFO - Creating 2-grams...
+2025-03-26 21:52:39,015 - INFO - 2-grams created with 9 unique 2-grams
+2025-03-26 21:52:39,015 - INFO - NGrams class is initialized
+2025-03-26 21:52:39,016 - INFO - Creating 4-grams...
+2025-03-26 21:52:39,016 - INFO - 4-grams created with 7 unique 4-grams
+2025-03-26 21:52:39,023 - INFO - Reading text from file: D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/english_text.txt
+2025-03-26 21:52:39,024 - INFO - Successfully read 859 chars from file.
+2025-03-26 21:52:39,025 - INFO - Text is initializing...
+2025-03-26 21:52:39,030 - INFO - Detected language: english
+2025-03-26 21:52:39,032 - INFO - Text is initialized with parameters: delete_punctuation_mode=string, text_normalization_method=lemma
+2025-03-26 21:52:39,032 - INFO - Text has been converted to lower case.
+2025-03-26 21:52:39,032 - INFO - Converting numbers to words...
+2025-03-26 21:52:39,033 - INFO - Numbers have been converted to words.
+2025-03-26 21:52:39,034 - INFO - Punctuation are being deleting...
+2025-03-26 21:52:39,034 - INFO - Punctuation has been deleted.
+2025-03-26 21:52:39,034 - INFO - Correction of typos initiated...
+2025-03-26 21:52:39,611 - INFO - Correction of typos initiated done with 135 corrected words.
+2025-03-26 21:52:39,613 - INFO - Text preprocessing is done!
+2025-03-26 21:52:39,620 - INFO - Transmitted preprocessed text with 850 chars.
+2025-03-26 21:52:39,621 - INFO - Text successfully was written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/english_text.txt
+2025-03-26 21:52:39,631 - INFO - BagOfWords class is initialized
+2025-03-26 21:52:39,632 - INFO - Creating bag of words using sklearn...
+2025-03-26 21:52:39,634 - INFO - Bag of words created with 120 unique words using sklearn
+2025-03-26 21:52:39,634 - INFO - NGrams class is initialized
+2025-03-26 21:52:39,635 - INFO - Creating 2-grams...
+2025-03-26 21:52:39,635 - INFO - 2-grams created with 134 unique 2-grams
+2025-03-26 21:52:39,635 - INFO - NGrams class is initialized
+2025-03-26 21:52:39,636 - INFO - Creating 4-grams...
+2025-03-26 21:52:39,637 - INFO - 4-grams created with 132 unique 4-grams

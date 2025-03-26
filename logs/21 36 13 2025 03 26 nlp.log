@@ -1,0 +1,48 @@
+2025-03-26 21:36:13,995 - INFO - Reading text from file: D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/test_text.txt
+2025-03-26 21:36:14,004 - INFO - Successfully read 29 chars from file.
+2025-03-26 21:36:14,005 - INFO - Text is initializing...
+2025-03-26 21:36:14,008 - INFO - Detected language: russian
+2025-03-26 21:36:14,010 - INFO - Text is initialized with parameters: delete_punctuation_mode=string, text_normalization_method=lemma
+2025-03-26 21:36:14,011 - INFO - Text has been converted to lower case.
+2025-03-26 21:36:14,012 - INFO - Converting numbers to words...
+2025-03-26 21:36:14,013 - INFO - Numbers have been converted to words.
+2025-03-26 21:36:14,014 - INFO - Punctuation are being deleting...
+2025-03-26 21:36:14,016 - INFO - Punctuation has been deleted.
+2025-03-26 21:36:14,016 - INFO - Correction of typos initiated...
+2025-03-26 21:36:15,803 - ERROR - Typos correction error: sequence item 0: expected str instance, NoneType found
+2025-03-26 21:36:15,806 - INFO - Text preprocessing is done!
+2025-03-26 21:36:15,813 - INFO - Transmitted preprocessed text with 62 chars.
+2025-03-26 21:36:15,814 - INFO - Text successfully was written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/output_russian.txt
+2025-03-26 21:36:15,821 - INFO - BagOfWords class is initialized
+2025-03-26 21:36:15,821 - INFO - Creating bag of words using sklearn...
+2025-03-26 21:36:15,823 - INFO - Bag of words created with 9 unique words using sklearn
+2025-03-26 21:36:15,823 - INFO - NGrams class is initialized
+2025-03-26 21:36:15,824 - INFO - Creating 2-grams...
+2025-03-26 21:36:15,824 - INFO - 2-grams created with 9 unique 2-grams
+2025-03-26 21:36:15,825 - INFO - NGrams class is initialized
+2025-03-26 21:36:15,825 - INFO - Creating 4-grams...
+2025-03-26 21:36:15,826 - INFO - 4-grams created with 7 unique 4-grams
+2025-03-26 21:36:15,833 - INFO - Reading text from file: D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/english_text.txt
+2025-03-26 21:36:15,834 - INFO - Successfully read 857 chars from file.
+2025-03-26 21:36:15,835 - INFO - Text is initializing...
+2025-03-26 21:36:15,839 - INFO - Detected language: english
+2025-03-26 21:36:15,840 - INFO - Text is initialized with parameters: delete_punctuation_mode=string, text_normalization_method=lemma
+2025-03-26 21:36:15,841 - INFO - Text has been converted to lower case.
+2025-03-26 21:36:15,841 - INFO - Converting numbers to words...
+2025-03-26 21:36:15,842 - INFO - Numbers have been converted to words.
+2025-03-26 21:36:15,843 - INFO - Punctuation are being deleting...
+2025-03-26 21:36:15,843 - INFO - Punctuation has been deleted.
+2025-03-26 21:36:15,844 - INFO - Correction of typos initiated...
+2025-03-26 21:36:16,410 - ERROR - Typos correction error: sequence item 13: expected str instance, NoneType found
+2025-03-26 21:36:16,413 - INFO - Text preprocessing is done!
+2025-03-26 21:36:16,419 - INFO - Transmitted preprocessed text with 857 chars.
+2025-03-26 21:36:16,421 - INFO - Text successfully was written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/english_text.txt
+2025-03-26 21:36:16,432 - INFO - BagOfWords class is initialized
+2025-03-26 21:36:16,433 - INFO - Creating bag of words using sklearn...
+2025-03-26 21:36:16,435 - INFO - Bag of words created with 120 unique words using sklearn
+2025-03-26 21:36:16,435 - INFO - NGrams class is initialized
+2025-03-26 21:36:16,436 - INFO - Creating 2-grams...
+2025-03-26 21:36:16,437 - INFO - 2-grams created with 134 unique 2-grams
+2025-03-26 21:36:16,438 - INFO - NGrams class is initialized
+2025-03-26 21:36:16,438 - INFO - Creating 4-grams...
+2025-03-26 21:36:16,439 - INFO - 4-grams created with 132 unique 4-grams
