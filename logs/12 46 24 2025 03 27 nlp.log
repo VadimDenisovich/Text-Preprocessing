@@ -1,0 +1,68 @@
+2025-03-27 12:46:24,259 - INFO - Reading text from file: D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/russian_text.txt
+2025-03-27 12:46:24,261 - INFO - Successfully read 2019 chars from file.
+2025-03-27 12:46:24,263 - INFO - Text is initializing...
+2025-03-27 12:46:24,523 - INFO - Detected language: russian
+2025-03-27 12:46:24,524 - INFO - Text is initialized with parameters: delete_punctuation_mode=string, text_normalization_method=stem
+2025-03-27 12:46:24,525 - INFO - Text has been converted to lower case.
+2025-03-27 12:46:24,526 - INFO - The text for step — Start. To lower case. — is written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/output_russian.txt
+2025-03-27 12:46:24,527 - INFO - Correction of typos initiated...
+2025-03-27 12:46:25,666 - INFO - Corrected 0 typos using Yandex.Speller
+2025-03-27 12:46:25,668 - INFO - The text for step — Spell correction. — is written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/output_russian.txt
+2025-03-27 12:46:25,670 - INFO - Converting numbers to words...
+2025-03-27 12:46:25,672 - INFO - Numbers have been converted to words.
+2025-03-27 12:46:25,672 - INFO - The text for step — Numbers to string. — is written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/output_russian.txt
+2025-03-27 12:46:25,673 - INFO - Punctuation are being deleting...
+2025-03-27 12:46:25,674 - INFO - Punctuation has been deleted.
+2025-03-27 12:46:25,675 - INFO - The text for step — Delete punctuation. — is written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/output_russian.txt
+2025-03-27 12:46:25,676 - INFO - Stop words are being removed...
+2025-03-27 12:46:25,678 - INFO - Stop words have been removed.
+2025-03-27 12:46:25,679 - INFO - The text for step — Delete stop words. — is written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/output_russian.txt
+2025-03-27 12:46:25,680 - INFO - Stemming is being performed...
+2025-03-27 12:46:25,686 - INFO - Stemming has been performed.
+2025-03-27 12:46:25,687 - INFO - The text for step — Stemming. — is written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/output_russian.txt
+2025-03-27 12:46:25,687 - INFO - Text preprocessing is done!
+2025-03-27 12:46:25,697 - INFO - Transmitted preprocessed text with 1417 chars.
+2025-03-27 12:46:25,699 - INFO - The text for step — Final Preproccessed Text — is written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/output_russian.txt
+2025-03-27 12:46:25,707 - INFO - BagOfWords class is initialized
+2025-03-27 12:46:25,708 - INFO - Creating bag of words using sklearn...
+2025-03-27 12:46:25,712 - INFO - Bag of words created with 186 unique words using sklearn
+2025-03-27 12:46:25,713 - INFO - NGrams class is initialized
+2025-03-27 12:46:25,714 - INFO - Creating 2-grams...
+2025-03-27 12:46:25,714 - INFO - 2-grams created with 233 unique 2-grams
+2025-03-27 12:46:25,715 - INFO - NGrams class is initialized
+2025-03-27 12:46:25,716 - INFO - Creating 4-grams...
+2025-03-27 12:46:25,717 - INFO - 4-grams created with 233 unique 4-grams
+2025-03-27 12:46:25,726 - INFO - Reading text from file: D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/english_text.txt
+2025-03-27 12:46:25,728 - INFO - Successfully read 2217 chars from file.
+2025-03-27 12:46:25,729 - INFO - Text is initializing...
+2025-03-27 12:46:25,735 - INFO - Detected language: english
+2025-03-27 12:46:25,736 - INFO - Text is initialized with parameters: delete_punctuation_mode=string, text_normalization_method=lemma
+2025-03-27 12:46:25,736 - INFO - Text has been converted to lower case.
+2025-03-27 12:46:25,738 - INFO - The text for step — Start. To lower case. — is written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/output_english.txt
+2025-03-27 12:46:25,739 - INFO - Correction of typos initiated...
+2025-03-27 12:46:29,770 - INFO - Correction of typos initiated done with 441 corrected words.
+2025-03-27 12:46:29,771 - INFO - The text for step — Spell correction. — is written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/output_english.txt
+2025-03-27 12:46:29,775 - INFO - Converting numbers to words...
+2025-03-27 12:46:29,777 - INFO - Numbers have been converted to words.
+2025-03-27 12:46:29,778 - INFO - The text for step — Numbers to string. — is written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/output_english.txt
+2025-03-27 12:46:29,779 - INFO - Punctuation are being deleting...
+2025-03-27 12:46:29,780 - INFO - Punctuation has been deleted.
+2025-03-27 12:46:29,781 - INFO - The text for step — Delete punctuation. — is written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/output_english.txt
+2025-03-27 12:46:29,781 - INFO - Stop words are being removed...
+2025-03-27 12:46:29,784 - INFO - Stop words have been removed.
+2025-03-27 12:46:29,785 - INFO - The text for step — Delete stop words. — is written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/output_english.txt
+2025-03-27 12:46:29,786 - INFO - Lemmatizaion is being performed...
+2025-03-27 12:46:31,811 - INFO - Lemmatization has been performed.
+2025-03-27 12:46:31,812 - INFO - The text for step — Lemmatization. — is written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/output_english.txt
+2025-03-27 12:46:31,813 - INFO - Text preprocessing is done!
+2025-03-27 12:46:31,819 - INFO - Transmitted preprocessed text with 1408 chars.
+2025-03-27 12:46:31,820 - INFO - The text for step — Final Preproccessed Text — is written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/output_english.txt
+2025-03-27 12:46:31,826 - INFO - BagOfWords class is initialized
+2025-03-27 12:46:31,827 - INFO - Creating bag of words using sklearn...
+2025-03-27 12:46:31,830 - INFO - Bag of words created with 174 unique words using sklearn
+2025-03-27 12:46:31,830 - INFO - NGrams class is initialized
+2025-03-27 12:46:31,831 - INFO - Creating 2-grams...
+2025-03-27 12:46:31,832 - INFO - 2-grams created with 230 unique 2-grams
+2025-03-27 12:46:31,832 - INFO - NGrams class is initialized
+2025-03-27 12:46:31,833 - INFO - Creating 4-grams...
+2025-03-27 12:46:31,834 - INFO - 4-grams created with 231 unique 4-grams

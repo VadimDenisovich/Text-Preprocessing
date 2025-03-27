@@ -1,0 +1,196 @@
+[Start. To lower case. — 12 53 45 2025 03 27]
+
+yesterday, i went to the st0re to buy somethng for dinner. i needed bre4d, milk, 
+and a few other things. when i got there, i picked up a loaf of 
+bread for $2.50 and a gallon of milk for $3.79 (it was suposed to be 
+$3.59, but the price tag was wrong). then, i saw a pack of cookies for 
+$4.99, but the expiraton date said "12/15," and today is 12/13. i thought, "hmm, maybe 
+i shuld take the risk." at the checkout, i realized i had forgotten my wallet 
+at home 🤦‍♂️. i only had $20 in cash, but the total came to $18.67. 
+the cashier asked, "do you need change?" i said, "no, keep it." but then i 
+regretted it because i could've used the 33 cents later 😅. on my way home, 
+i ran into my old frend mike. he said he’d be at the park at 
+3:00 pm tomorrow and asked if i wanted to meet up. i said yes, but 
+i forgot to ask which park — central park or liberty park. now i’ll have 
+to text him, but my phone battery is at 15%, and i don’t have my 
+charger with me. when i got home, i decided to cook dinner. i opened the 
+fridge and found some chicken that had been sitting there for like 4 days. i 
+thought, "i should probably cook this before it goes bad." i heated up a pan 
+and poured oil, but i accidentally poured too much. the chicken started sizzling and almost 
+burned. in the end, i added potatoes and onions, and after 40 minutes, everything was 
+ready. it tasted good, but it was a bit too salty. after dinner, i sat 
+down at my computer to do some work. i was supposed to write a report 
+for my boss, but instead, i started browsing socila media. i read an article saying 
+that next year, inflation might reach 7%. that scared me because wages aren’t going up 
+fast enough. after wasting 30 minutes, i finally started writing the report, but after 10 
+minutes, i realized i hadn’t saved the file, and it disappeared! i had to start 
+all over again 😡. overall, it was a long and tiring day. but before bed, 
+i watched two episodes of my favorite show — it helped me relax. i went 
+to bed at 11:45 pm, but i couldn’t fall asleep because i kept thinking about 
+waking up early tomorrow. i need to be at work by 8:30 am, so i 
+set my alarm for 6:45. oh, and i can’t forget about meeting mike at the 
+park... i hope i don’t oversleep! 
+
+
+[Spell correction. — 12 53 55 2025 03 27]
+
+yesterday i went to the store to buy something for dinner i needed bread milk 
+and a few other things when i got there i picked up a loaf of 
+bread for $2.50 and a gallon of milk for $3.79 it was supposed to be 
+$3.59, but the price tag was wrong then i saw a pack of cookies for 
+$4.99, but the expiration date said "12/15," and today is 12/13. i thought hmm maybe 
+i should take the risk at the checkout i realized i had forgotten my wallet 
+at home 🤦‍♂️. i only had $20 in cash but the total came to $18.67. 
+the cashier asked do you need change i said not keep it but then i 
+regretted it because i would've used the 33 cents later 😅. on my way home 
+i ran into my old friend mike he said head be at the park at 
+3:00 pm tomorrow and asked if i wanted to meet up i said yes but 
+i forgot to ask which park — central park or liberty park now i'll have 
+to text him but my phone battery is at 15%, and i don't have my 
+charger with me when i got home i decided to cook dinner i opened the 
+fridge and found some chicken that had been sitting there for like 4 days i 
+thought "i should probably cook this before it goes bad i heated up a pan 
+and poured oil but i accidentally poured too much the chicken started sizzling and almost 
+burned in the end i added potatoes and onions and after 40 minutes everything was 
+ready it tasted good but it was a bit too salty after dinner i sat 
+down at my computer to do some work i was supposed to write a report 
+for my boss but instead i started browsing social media i read an article saying 
+that next years inflation might reach 7%. that scared me because wages aren't going up 
+fast enough after wasting 30 minutes i finally started writing the report but after 10 
+minutes i realized i hadn't saved the file and it disappeared i had to start 
+all over again 😡. overall it was a long and tiring day but before bed 
+i watched two episodes of my favorite show — it helped me relax i went 
+to bed at 11:45 pm but i couldn't fall asleep because i kept thinking about 
+waking up early tomorrow i need to be at work by 8:30 am so i 
+set my alarm for 6:45. oh and i can't forget about meeting mike at the 
+park... i hope i don't oversleep 
+
+
+[Numbers to string. — 12 53 55 2025 03 27]
+
+yesterday i went to the store to buy something for dinner i needed bread milk 
+and a few other things when i got there i picked up a loaf of 
+bread for $two point five and a gallon of milk for $three point seven nine 
+it was supposed to be $three point five nine, but the price tag was wrong 
+then i saw a pack of cookies for $four point nine nine, but the expiration 
+date said "twelve/fifteen," and today is twelve/thirteen. i thought hmm maybe i should take the 
+risk at the checkout i realized i had forgotten my wallet at home 🤦‍♂️. i 
+only had $twenty in cash but the total came to $eighteen point six seven. the 
+cashier asked do you need change i said not keep it but then i regretted 
+it because i would've used the thirty-three cents later 😅. on my way home i 
+ran into my old friend mike he said head be at the park at three:zero 
+pm tomorrow and asked if i wanted to meet up i said yes but i 
+forgot to ask which park — central park or liberty park now i'll have to 
+text him but my phone battery is at fifteen%, and i don't have my charger 
+with me when i got home i decided to cook dinner i opened the fridge 
+and found some chicken that had been sitting there for like four days i thought 
+"i should probably cook this before it goes bad i heated up a pan and 
+poured oil but i accidentally poured too much the chicken started sizzling and almost burned 
+in the end i added potatoes and onions and after forty minutes everything was ready 
+it tasted good but it was a bit too salty after dinner i sat down 
+at my computer to do some work i was supposed to write a report for 
+my boss but instead i started browsing social media i read an article saying that 
+next years inflation might reach seven%. that scared me because wages aren't going up fast 
+enough after wasting thirty minutes i finally started writing the report but after ten minutes 
+i realized i hadn't saved the file and it disappeared i had to start all 
+over again 😡. overall it was a long and tiring day but before bed i 
+watched two episodes of my favorite show — it helped me relax i went to 
+bed at eleven:forty-five pm but i couldn't fall asleep because i kept thinking about waking 
+up early tomorrow i need to be at work by eight:thirty am so i set 
+my alarm for six:forty-five. oh and i can't forget about meeting mike at the park... 
+i hope i don't oversleep 
+
+
+[Delete punctuation. — 12 53 55 2025 03 27]
+
+yesterday i went to the store to buy something for dinner i needed bread milk 
+and a few other things when i got there i picked up a loaf of 
+bread for two point five and a gallon of milk for three point seven nine 
+it was supposed to be three point five nine but the price tag was wrong 
+then i saw a pack of cookies for four point nine nine but the expiration 
+date said twelvefifteen and today is twelvethirteen i thought hmm maybe i should take the 
+risk at the checkout i realized i had forgotten my wallet at home 🤦‍♂️ i 
+only had twenty in cash but the total came to eighteen point six seven the 
+cashier asked do you need change i said not keep it but then i regretted 
+it because i wouldve used the thirtythree cents later 😅 on my way home i 
+ran into my old friend mike he said head be at the park at threezero 
+pm tomorrow and asked if i wanted to meet up i said yes but i 
+forgot to ask which park — central park or liberty park now ill have to 
+text him but my phone battery is at fifteen and i dont have my charger 
+with me when i got home i decided to cook dinner i opened the fridge 
+and found some chicken that had been sitting there for like four days i thought 
+i should probably cook this before it goes bad i heated up a pan and 
+poured oil but i accidentally poured too much the chicken started sizzling and almost burned 
+in the end i added potatoes and onions and after forty minutes everything was ready 
+it tasted good but it was a bit too salty after dinner i sat down 
+at my computer to do some work i was supposed to write a report for 
+my boss but instead i started browsing social media i read an article saying that 
+next years inflation might reach seven that scared me because wages arent going up fast 
+enough after wasting thirty minutes i finally started writing the report but after ten minutes 
+i realized i hadnt saved the file and it disappeared i had to start all 
+over again 😡 overall it was a long and tiring day but before bed i 
+watched two episodes of my favorite show — it helped me relax i went to 
+bed at elevenfortyfive pm but i couldnt fall asleep because i kept thinking about waking 
+up early tomorrow i need to be at work by eightthirty am so i set 
+my alarm for sixfortyfive oh and i cant forget about meeting mike at the park 
+i hope i dont oversleep 
+
+
+[Delete stop words. — 12 53 55 2025 03 27]
+
+yesterday went store buy something dinner needed bread milk things got picked loaf bread two 
+point five gallon milk three point seven nine supposed three point five nine price tag 
+wrong saw pack cookies four point nine nine expiration date said twelvefifteen today twelvethirteen thought 
+hmm maybe take risk checkout realized forgotten wallet home 🤦‍♂️ twenty cash total came eighteen 
+point six seven cashier asked need change said keep regretted wouldve used thirtythree cents later 
+😅 way home ran old friend mike said head park threezero pm tomorrow asked wanted 
+meet said yes forgot ask park — central park liberty park ill text phone battery 
+fifteen dont charger got home decided cook dinner opened fridge found chicken sitting like four 
+days thought probably cook goes bad heated pan poured oil accidentally poured much chicken started 
+sizzling almost burned end added potatoes onions forty minutes everything ready tasted good bit salty 
+dinner sat computer work supposed write report boss instead started browsing social media read article 
+saying next years inflation might reach seven scared wages arent going fast enough wasting thirty 
+minutes finally started writing report ten minutes realized hadnt saved file disappeared start 😡 overall 
+long tiring day bed watched two episodes favorite show — helped relax went bed elevenfortyfive 
+pm couldnt fall asleep kept thinking waking early tomorrow need work eightthirty set alarm sixfortyfive 
+oh cant forget meeting mike park hope dont oversleep 
+
+
+[Lemmatization. — 12 53 55 2025 03 27]
+
+yesterday go store buy something dinner need bread milk thing get picked loaf bread two 
+point five gallon milk three point seven nine suppose three point five nine price tag 
+wrong saw pack cooky four point nine nine expiration date say twelvefifteen today twelvethirteen thought 
+hmm maybe take risk checkout realize forgotten wallet home 🤦‍♂️ twenty cash total come eighteen 
+point six seven cashier ask need change say keep regret wouldve use thirtythree cent later 
+😅 way home ran old friend mike say head park threezero pm tomorrow ask want 
+meet say yes forgot ask park — central park liberty park ill text phone battery 
+fifteen dont charger get home decide cook dinner open fridge found chicken sit like four 
+day thought probably cook go bad heat pan pour oil accidentally pour much chicken start 
+sizzle almost burn end add potato onion forty minute everything ready taste good bit salty 
+dinner sat computer work suppose write report bos instead start browsing social medium read article 
+say next year inflation might reach seven scar wage arent go fast enough waste thirty 
+minute finally start write report ten minute realize hadnt save file disappear start 😡 overall 
+long tire day bed watch two episode favorite show — help relax go bed elevenfortyfive 
+pm couldnt fall asleep kept think wake early tomorrow need work eightthirty set alarm sixfortyfive 
+oh cant forget meeting mike park hope dont oversleep 
+
+
+[Final Preproccessed Text — 12 53 55 2025 03 27]
+
+yesterday go store buy something dinner need bread milk thing get picked loaf bread two 
+point five gallon milk three point seven nine suppose three point five nine price tag 
+wrong saw pack cooky four point nine nine expiration date say twelvefifteen today twelvethirteen thought 
+hmm maybe take risk checkout realize forgotten wallet home 🤦‍♂️ twenty cash total come eighteen 
+point six seven cashier ask need change say keep regret wouldve use thirtythree cent later 
+😅 way home ran old friend mike say head park threezero pm tomorrow ask want 
+meet say yes forgot ask park — central park liberty park ill text phone battery 
+fifteen dont charger get home decide cook dinner open fridge found chicken sit like four 
+day thought probably cook go bad heat pan pour oil accidentally pour much chicken start 
+sizzle almost burn end add potato onion forty minute everything ready taste good bit salty 
+dinner sat computer work suppose write report bos instead start browsing social medium read article 
+say next year inflation might reach seven scar wage arent go fast enough waste thirty 
+minute finally start write report ten minute realize hadnt save file disappear start 😡 overall 
+long tire day bed watch two episode favorite show — help relax go bed elevenfortyfive 
+pm couldnt fall asleep kept think wake early tomorrow need work eightthirty set alarm sixfortyfive 
+oh cant forget meeting mike park hope dont oversleep 

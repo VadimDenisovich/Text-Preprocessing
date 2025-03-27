@@ -1,0 +1,8 @@
+2025-03-27 12:53:44,094 - INFO - Reading text from file: D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/russian_text.txt
+2025-03-27 12:53:44,111 - INFO - Successfully read 2111 chars from file.
+2025-03-27 12:53:44,113 - INFO - Text is initializing...
+2025-03-27 12:53:44,132 - INFO - Detected language: russian
+2025-03-27 12:53:44,134 - INFO - Text is initialized with parameters: delete_punctuation_mode=string, text_normalization_method=stem
+2025-03-27 12:53:44,135 - INFO - Text has been converted to lower case.
+2025-03-27 12:53:44,138 - INFO - The text for step — Start. To lower case. — is written to D:/Projects/SvetlanaDmitrievna/lab3_ii/texts/output_russian.txt
+2025-03-27 12:53:44,139 - INFO - Correction of typos initiated...
